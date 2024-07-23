@@ -34,4 +34,6 @@ This repository contains a series of SQL queries and answers to various question
 **Acknowledgments**
 ------------------
 
-I would like to thank Shashank for this exciting project opportunity. This experience has enriched my skills and understanding of SQL querying and data analysis.
+I would like to thank Shashank for this exciting project opportunity. This experience has enriched my skills and understanding of data analysis and reporting in Power BI.
+
+Feel free to reach out if you have any questions or would like to collaborate on future projects!
